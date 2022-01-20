@@ -29,4 +29,4 @@ For this project, the following python libraries were used:
 - Pandas: For Data Analysis
 - Seaborn: For Visualization
 - Matplotlib: For Plotting and Visualization
-- 
+- Scikit-learn: For regression and clustering Algorithms (ML)
